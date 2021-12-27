@@ -1,6 +1,52 @@
 <fable>
-	<page>
-  
-    
+ <page background="bg (1).png">
+    <agent text="RENASCIMENTO" font-size="30" x="10" y="450" 
+      width="400" color="darkblue"/>
+   <agent text="Era uma vez um cidadão chamado Cleiton que contraiu o vírus da Covid-19, antes que seja tarde, parte em busca de uma cura!" font-size="15" x="10" y="320" width="180"/>
+    <agent img="grama.png" x="10" y="0" width="100" height="100"/>
+    <agent img="grama 2.png" x="110" y="0" width="100" height="100"/>
+    <agent img="grama 2.png" x="160" y="0" width="100" height="100"/>
+    <agent img="grama 2.png" x="210" y="0" width="100" height="100"/>
+    <agent img="grama 2.png" x="260" y="0" width="100" height="100"/>
+    <agent img="grama 2.png" x="310" y="0" width="100" height="100"/>
+    <agent img="grama 2.png" x="360" y="0" width="100" height="100"/>
+    <agent img="grama 2.png" x="410" y="0" width="100" height="100"/>
+    <agent img="Tree_2.png" x="210" y="100" width="200" height="200"/>
+    <agent img="Bush (1).png" x="210" y="100" width="100" height="50"/>
+    <agent img="download.png" x="10" y="99" width="100" height="100"/>
+    <agent img="Sign_2.png" x="440" y="100" width="50" height="50" on-touch="_NEXT_PAGE"/>
+</page>
+   <page background="noite_dark.png">
+    <agent text="No caminho, Cleiton se depara com diversas lápides de guerreiros que perderam a batalha contra o vírus." font-size="15" x="10" y="400" width="200" color="white"/>
+    <agent img="Tile (2).png" x="0" y="0" width="100" height="100"/>
+    <agent img="Tile (2).png" x="10" y="0" width="100" height="100"/>
+    <agent img="Tile (2).png" x="110" y="0" width="100" height="100"/>
+    <agent img="Tile (2).png" x="160" y="0" width="100" height="100"/>
+    <agent img="Tile (2).png" x="210" y="0" width="100" height="100"/>
+    <agent img="Tile (2).png" x="260" y="0" width="100" height="100"/>
+    <agent img="Tile (2).png" x="310" y="0" width="100" height="100"/>
+    <agent img="Tile (2).png" x="360" y="0" width="100" height="100"/>
+    <agent img="Tile (2).png" x="410" y="0" width="100" height="100"/>
+    <agent img="TombStone (1).png" x="210" y="100" width="100" height="100"/>
+    <agent img="Skeleton.png" x="260" y="0" width="50" height="30"/>
+    <agent img="Bone (3).png" x="100" y="0" width="100" height="100"/>
+    <agent img="Bone (3).png" x="500" y="70" width="100" height="100"/>
+     <agent img="download.png" x="60" y="99" width="100" height="100"/>
+    <agent img="Sign_2.png" x="440" y="100" width="50" height="50" on-touch="_NEXT_PAGE"/>
+   </page>
+  <page background="bg.png">
+    <agent text="Depois de uma longa jornada, quando tudo parecia perdido, Cleiton encontra aquilo que pode ser sua salvação." font-size="15" x="10" y="400" width="200"/>
+    <agent img="1.png" x="10" y="0" width="100" height="100"/>
+    <agent img="2.png" x="110" y="0" width="100" height="100"/>
+    <agent img="2.png" x="160" y="0" width="100" height="100"/>
+    <agent img="2.png" x="210" y="0" width="100" height="100"/>
+    <agent img="2.png" x="260" y="0" width="100" height="100"/>
+    <agent img="2.png" x="310" y="0" width="100" height="100"/>
+    <agent img="2.png" x="360" y="0" width="100" height="100"/>
+    <agent img="2.png" x="410" y="0" width="100" height="100"/>
+    <agent img="Sign_2.png" x="440" y="100" width="50" height="50" on-touch="_NEXT_PAGE"/>
   </page>
+  <page background="bg.png">
+    <agent text="Depois de uma longa jornada, quando tudo parecia perdido, Cleiton encontra aquilo que pode ser sua salvação." font-size="15" x="10" y="400" width="200" color="red"/>
+    </page>
 </fable>
